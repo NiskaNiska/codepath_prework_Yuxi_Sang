@@ -1,4 +1,4 @@
-# codepath_prework_Yuxi_Sang
+# codepath_prework
 
 Light and Sound Memory Game
 
@@ -6,11 +6,12 @@ Light and Sound Memory Game
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program.
 
-Submitted by: **NAME**
+Submitted by: **Yuxi Sang**
 
-Time spent: **#** hours spent in total
+Time spent: **15** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to code: https://glitch.com/edit/#!/quickest-delicious-hammer?path=script.js%3A102%3A20
+Link to project: https://quickest-delicious-hammer.glitch.me/
 
 ## Required Functionality
 
@@ -26,14 +27,14 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-- [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-- [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
-- [ ] More than 4 functional game buttons
-- [ ] Playback speeds up on each turn
-- [ ] Computer picks a different pattern each time the game is played
-- [ ] Player only loses after 3 mistakes (instead of on the first mistake)
-- [ ] Game button appearance change goes beyond color (e.g. add an image)
-- [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
+- [x] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+- [x] Buttons use a pitch (frequency) other than the ones in the tutorial
+- [x] More than 4 functional game buttons
+- [x] Playback speeds up on each turn
+- [x] Computer picks a different pattern each time the game is played
+- [x] Player only loses after 3 mistakes (instead of on the first mistake)
+- [x] Game button appearance change goes beyond color (e.g. add an image)
+- [x] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 - [ ] User has a limited amount of time to enter their guess on each turn
 
 The following **additional** features are implemented:
@@ -43,15 +44,13 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+![](https://i.imgur.com/UJTAPlQ.gif)
 
 ## Reflection Questions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
-   [YOUR ANSWER HERE]
+   I refer to Codepen when searching on how to display images onclick. 
+   Also, W3schools, stack Overflow and some Youtube channels help me with knowledges on JavaScript, HTML and CSS.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
    [YOUR ANSWER HERE]
@@ -65,7 +64,6 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ## Interview Recording URL Link
 
 [My 5-minute Interview Recording](your-link-here)
-![](https://i.imgur.com/UJTAPlQ.gif)
 
 ## License
 
