@@ -54,7 +54,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ## Reflection Questions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
-   I refer to Codepen when searching how to display images onclick. Also, I got resources from W3schools, stack Overflow, and Web Dev Simplified. And my friend Greg gave me advice on setting levels of difficulties.
+   I refer to Codepen when searching how to display images onclick. Also, I got resources from W3schools, stack Overflow, and Web Dev Simplified. 
    
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
    I spent some time inserting images into the game button. I found images online, imported them into Assets, and got their links to the HTML file without problem. But I was confused what is the next file to edit. The instruction suggests editing style.css to add CSS rules. But that's not enough. I would still need to modify script.js by        adding two functions showImage() and removeImage(), calling them separately in startTone() and stopTone(). In this way, the images work just we expected. It shows when I am clicking the game button but hides after click.
